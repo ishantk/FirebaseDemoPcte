@@ -16,6 +16,32 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 
+/*
+Android
+	Android Studio
+
+	1. Start a New Project
+	2. Note the Application ID (com.auribises.pctefirebasedemo) | Find in build.gradle of Module:app
+	3. Add Dependencies in build.gradle
+	4. Select Project View and copy google-services.json file into app folder
+
+Cloud Computing
+	Google Firebase
+
+	NoSQL | Documets are stored
+	Node JS
+
+	RDBMS | MySQL
+
+
+	1. Create a New Project
+	2. Add Android to Firebase app
+	3. Configure gradle scripts in Android App from here
+	4. Enable SignIn Method in Authentication
+	5. Downalod google-services.json file
+
+ */
+
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
 
