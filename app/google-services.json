@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "418133350429",
+    "firebase_url": "https://pcte-1859a.firebaseio.com",
+    "project_id": "pcte-1859a",
+    "storage_bucket": "pcte-1859a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418133350429:android:93dd61da90e3e057",
+        "android_client_info": {
+          "package_name": "com.auribises.pctefirebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418133350429-u9763vdosfti06hi1jbhlsponjr0995s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjqtSZVWLXpcCSm8pH4fw_ilAHVuqqsek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
